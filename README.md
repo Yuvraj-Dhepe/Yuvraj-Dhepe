@@ -6,6 +6,7 @@
   - 💬 Ask me about Deep Learning n Kaggling
   - 😄 Pronouns: Explorer
   - ⚡ Fun fact: Exploring spirituality n coding together
+  - 👨‍🎓 Studying Masters in Data Science at University Of Potsdam Germany
 <br>
 
 <summary>
