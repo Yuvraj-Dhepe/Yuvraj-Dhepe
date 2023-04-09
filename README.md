@@ -1,5 +1,5 @@
 ### Hello There 👋
-  - 🔭 I’m currently working on building my portfolio and side_blog
+  - 🔭 I’m currently working on building my portfolio and writing data blog for personal projects and learnings.
   - 🌱 I’m currently learning the [FastAi Course](https://course.fast.ai/)
   - 👯 I’m looking to collaborate on Data Science Projects
   - 🤔 I’m looking for help in landing a job in Data Science 💼
@@ -7,6 +7,7 @@
   - 😄 Pronouns: Explorer
   - ⚡ Fun fact: Exploring spirituality n coding together
   - 👨‍🎓 Studying Masters in Data Science at University Of Potsdam Germany
+  - 📝 [Data Blog](https://yuvraj-dhepe.github.io/DataBlog_V1/)
 <br>
 
 <summary>
