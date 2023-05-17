@@ -10,7 +10,7 @@
   - 📝 [Data Blog](https://yuvraj-dhepe.github.io/DataBlog_V1/)
 <br>
 
-<summary>
+<!-- <summary>
 <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
 <strong> 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 </strong>
 </summary>
@@ -18,7 +18,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuvraj-Dhepe)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Dhepe&theme=dark&show_icons=true"/>  -->
-<br>
+<br> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
