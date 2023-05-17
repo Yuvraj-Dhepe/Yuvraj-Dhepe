@@ -15,7 +15,7 @@
 <strong> 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 </strong>
 </summary>
 <div align="center">
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuvraj-Dhepe)](https://github.com/yuvraj-dhepe/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuvraj-Dhepe)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Dhepe&theme=dark&show_icons=true"/>  -->
 <br>
