@@ -2,7 +2,7 @@
   - 🔭 I’m currently working on building my portfolio and writing data blog for personal projects and learnings.
   - 🌱 I’m currently learning the [FastAi Course](https://course.fast.ai/)
   - 👯 I’m looking to collaborate on Data Science Projects
-  - 🤔 I’m looking for help in landing a job in Data Science 💼
+  - 💼 Currently working as Working Student using Computer Vision n Deep Learning Skill in Food Quality n Medical Industry
   - 💬 Ask me about Deep Learning n Kaggling
   - 😄 Pronouns: Explorer
   - ⚡ Fun fact: Exploring spirituality n coding together
