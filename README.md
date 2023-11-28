@@ -1,6 +1,6 @@
 ### Hello There 👋
   - 🔭 I’m currently working on building my portfolio and writing data blog for personal projects and learnings.
-  - 🌱 I’m currently learning the [FastAi Course](https://course.fast.ai/)
+  - 🌱 I’m currently learning the [PyTorch Fundamentals Course](https://www.learnpytorch.io/)
   - 👯 I’m looking to collaborate on Data Science Projects
   - 💼 Currently working as Working Student using Computer Vision n Deep Learning Skill in Food Quality n Medical Industry
   - 💬 Ask me about Deep Learning n Kaggling
