@@ -4,7 +4,7 @@
   - 👯 I’m looking to collaborate on Data Science Projects
   - 💼 Currently working as Working Student using Computer Vision n Deep Learning Skill in Food Quality n Medical Industry
   - 💬 Ask me about Deep Learning n Kaggling
-  - 😄 Pronouns: Explorer
+  - 😄 Like to Explore life
   - ⚡ Fun fact: Exploring spirituality n coding together
   - 👨‍🎓 Studying Masters in Data Science at University Of Potsdam Germany
   - Ⓜ️ [Personal Projects](https://github.com/Yuvraj-Dhepe/Projects)
