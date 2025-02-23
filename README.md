@@ -6,8 +6,8 @@
   - 😄 Like to Explore life
   - ⚡ Fun fact: Exploring spirituality n coding together
   - 👨‍🎓 Studying Masters in Data Science at University Of Potsdam Germany
-  - Ⓜ️ [Personal Projects](https://github.com/Yuvraj-Dhepe/Projects)
-  - 📝 [Data Blog](https://yuvraj-dhepe.github.io/DataBlog_V1/)
+  - Ⓜ️ [Personal Projects](https://github.com/Yuvraj-Dhepe/Projects) Outdated!!
+  - 📝 [Data Blog](https://yuvraj-dhepe.github.io/DataBlog_V1/) Outdated!!
 <br>
 
 <!-- <summary>
