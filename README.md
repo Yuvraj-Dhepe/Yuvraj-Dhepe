@@ -1,5 +1,5 @@
 ### Hello There 👋
-  - 🔭 I’m currently working on building my portfolio and writing data blog for personal projects and learnings.
+  - 🔭 I’m currently working on building my portfolio, exploring a few personal projects.
   - 👯 I’m looking to collaborate on Data Science Projects
   - 💼 Currently working as Full Time @Perfacct Germany using Computer Vision n Deep Learning Skill in Food Quality n Medical Industry
   - 💬 Ask me about Deep Learning n Kaggling
