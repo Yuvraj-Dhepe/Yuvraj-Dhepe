@@ -1,7 +1,10 @@
+<!-- readme: kind=profile -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <img alt="Yuvraj Dhepe, Machine Learning Engineer: production LLM and ML systems, RAG and agents, computer vision." src="assets/hero-light.svg" width="100%">
 </picture>
+
+# Yuvraj Dhepe
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yuvraj-dhepe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
